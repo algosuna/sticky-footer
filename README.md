@@ -25,3 +25,5 @@ footer {
 	height: 60px;/* should be the same as the margin-bottom of the body */
 }
 ```
+
+View a live demo here: http://andyosuna.com/github/sticky-footer/
